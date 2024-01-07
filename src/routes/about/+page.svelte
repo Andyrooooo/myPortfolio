@@ -26,7 +26,7 @@
 
     <div class="h-12 overflow-x-hidden">
         {#key i}
-            <h1 class="text-xl mb-2 px-4 absolute z-10 text-cyan-500" transition:fly={{ x: 600, duration: 2000 }}>
+            <h1 class="text-xl mb-2 px-4 absolute z-10 text-cyan-500" transition:fly={{ x: 300, duration: 2000 }}>
                 {messages[i] || ''}
             </h1>
         {/key}
