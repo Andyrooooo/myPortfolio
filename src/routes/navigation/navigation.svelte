@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="basis-4/12">
-                    <h1 class="text-center text-xl">Andrew Kester</h1>
+                    <h1 class="text-center hidden sm:block">Andrew Kester</h1>
                 </div>
 
                 <div class="basis-4/12 flex justify-end gap-4 pr-2">
